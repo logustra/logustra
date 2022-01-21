@@ -3,9 +3,9 @@ This is the place where I opensource stuff and break things 🤣
 
 &nbsp; &nbsp; 🙋‍♂️ I'm currently working as Software Engineer, Product Owner<br>
 &nbsp; &nbsp; 🍳 I'm currently researching Sustainable Food <br>
-&nbsp; &nbsp; 🥘  I'm currently learning Foods <br>
-&nbsp; &nbsp; 💬 Ask me anything related to Vue/React/Angular <br>
-&nbsp; &nbsp; 📩 Reach me on [@logustra](https://www.instagram.com/logustra)<br>
+&nbsp; &nbsp; 🤝 I'm 🔍 to collab on any open source projects related to Vue/JavaScript <br>
+&nbsp; &nbsp; 💬 Ask me anything related to Vue/JavaScript/Testing <br>
+&nbsp; &nbsp; 📩 Reach out to me directly through my [Instagram](https://www.instagram.com/logustra)<br>
 &nbsp; &nbsp; ⚡ Fun fact, I ❤️ Minimalism, Open and Honest Culture
 
 <br />

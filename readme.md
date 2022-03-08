@@ -9,11 +9,11 @@ This is the place where I opensource stuff and break things 🤣
 
 <br />
 
-📊 **This year I contributed on**
-
+#### 📊 This year I contributed on
 ![Faizal github stats](https://github-readme-stats.vercel.app/api?username=logustra&hide_title=true&hide_border=true&show_icons=true)
 
-🍻 **Cheer me on**
+#### 🍻 Cheer me on
+If you like my works, you can cheer me on here 😆
 
 &nbsp; &nbsp; 🇮🇩 [Trakteer](https://trakteer.id/logustra/tip)<br>
-&nbsp; &nbsp; 🌍 [Ko-Fi](https://ko-fi.com/logustra)<br>
+&nbsp; &nbsp; 🌍 [Ko-Fi]()<br>

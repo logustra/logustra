@@ -16,4 +16,4 @@ This is the place where I opensource stuff and break things 🤣
 If you like my works, you can cheer me on here 😆
 
 &nbsp; &nbsp; 🇮🇩 [Trakteer](https://trakteer.id/logustra/tip)<br>
-&nbsp; &nbsp; 🌍 [Ko-Fi]()<br>
+&nbsp; &nbsp; 🌍 [Ko-Fi](https://ko-fi.com/logustra)<br>

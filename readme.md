@@ -1,5 +1,6 @@
-## 😄 Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+![Banner](https://user-images.githubusercontent.com/13871363/171856255-ada06836-7d60-460e-8b74-3193c7148c63.png)
 
+## 😄 Hi there 👋
 My name is Faizal, an experienced software engineer with 4+ years of experience <br>
 working in local and international companies which currently focused on frontend and product things.
 
@@ -29,7 +30,7 @@ Where I opensource stuff and break things 🤣
 
 ![Faizal github stats](https://github-readme-stats.vercel.app/api?username=logustra&hide_title=true&hide_border=true&show_icons=true)
 ## 🍻 Cheers me on
-Love my works? cheers me on here 😆
+Love my works? give me 🌟 or cheers me on here 😆
 
 &nbsp; &nbsp; 🇮🇩 [Trakteer](https://trakteer.id/logustra/tip)<br>
 &nbsp; &nbsp; 🌍 [Ko-Fi](https://ko-fi.com/logustra)<br>

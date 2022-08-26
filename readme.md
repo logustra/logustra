@@ -1,7 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/13871363/171856255-ada06836-7d60-460e-8b74-3193c7148c63.png)
 
 ## 😄 Hi there 👋
-My name is Faizal, an experienced software engineer with 4+ years of experience <br>
+My name is Faizal, an experienced software engineer with 5+ years of experience <br>
 working in local and international companies which currently focused on frontend and product things.
 
 As a software engineer, I always love to see the big picture. By seeing how each component works <br>

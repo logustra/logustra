@@ -30,7 +30,10 @@ Where I opensource stuff and break things 🤣
 
 ![Faizal github stats](https://github-readme-stats.vercel.app/api?username=logustra&hide_title=true&hide_border=true&show_icons=true)
 ## 🍻 Cheers me on
-Love my works? give me 🌟 or cheers me on here 😆
+Love my works? give me 🌟 or cheers me on here 😆 <br>
+Your support means a lot to me. It will help me sustain my projects actively and make more of my ideas come true. <br>
+Much appreciated! ❤️ 🙏
 
-&nbsp; &nbsp; 🇮🇩 [Trakteer](https://trakteer.id/logustra/tip)<br>
+&nbsp; &nbsp; 🐙 [Github](https://github.com/sponsors/logustra)<br>
 &nbsp; &nbsp; 🌍 [Ko-Fi](https://ko-fi.com/logustra)<br>
+&nbsp; &nbsp; 🇮🇩 [Trakteer](https://trakteer.id/logustra/tip)<br>

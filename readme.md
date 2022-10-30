@@ -11,7 +11,7 @@ However, when it comes to implementation, I believe the art of working parallel 
 By prioritizing the problems, doing one thing at a time, and giving enough time (more effort now to save effort later), <br>
 most things can be solved and avoid unexpected costs in the future.
 
-I'm experienced working on fast pace startups, using SCRUM/SCRUMBAN Methodology, <br>
+I'm experienced working on fast pace startups, using Agile Methodologies, <br>
 working remotely at different timezone, and being able to manage a small team.
 
 I'm also a lifelong learner who has the ability to learn, share and adapt quickly. <br>

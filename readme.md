@@ -12,8 +12,8 @@ Also, I’m a lifelong learner who can adapt quickly, love an open and honest cu
 ## 📩 Reach me on
 Ask me anything related to Vue/JavaScript/Testing 💬
 
-- Twitter: [logustr4](https://twitter.com/logustr4)
-- Linkedin: [logustra](https://www.linkedin.com/in/logustra)
+- Twitter: [faizalandyka](https://twitter.com/faizalandyka)
+- Linkedin: [faizalandyka](https://www.linkedin.com/in/faizalandyka)
 - Email: [logustra](mailto:logustra@outlook.com)
 
 ## 📊 Contributions
